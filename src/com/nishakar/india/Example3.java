@@ -6,6 +6,7 @@ public class Example3 {
 		System.out.println("Main Starts");
 		System.out.println("Main in Between");
 		System.out.println("OK");
+		System.out.println("OK Bye");
 		System.out.println("Main Ends");
 	}
 }
